@@ -31,7 +31,7 @@ __dotbare_completion() {
         'finit:init/migrate dotbare'
         'flog:interactive log viewer'
         'freset:reset files/commit'
-        'fstash:stage management'
+        'fstash:stash management'
         'fstat:toggle stage/unstage of files'
         'funtrack:untrack files'
         'fupgrade:update dotbare'
